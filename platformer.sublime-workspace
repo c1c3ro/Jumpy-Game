@@ -1,0 +1,633 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clou",
+				"clouds"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"Width",
+				"WIDTH"
+			],
+			[
+				"se",
+				"set_colorkey"
+			],
+			[
+				"clo",
+				"cloud_images"
+			],
+			[
+				"play",
+				"playing"
+			],
+			[
+				"mob",
+				"mob_hits"
+			],
+			[
+				"spr",
+				"spritecollide"
+			],
+			[
+				"get",
+				"get_rect"
+			],
+			[
+				"ima",
+				"image_down"
+			],
+			[
+				"imag",
+				"image_up"
+			],
+			[
+				"pow",
+				"pow_hits"
+			],
+			[
+				"po",
+				"powerups"
+			],
+			[
+				"sprite",
+				"spritecollide"
+			],
+			[
+				"g",
+				"groups"
+			],
+			[
+				"platform",
+				"platforms"
+			],
+			[
+				"center",
+				"centerx"
+			],
+			[
+				"m",
+				"music"
+			],
+			[
+				"ju",
+				"jump_sound"
+			],
+			[
+				"snd",
+				"snd_dir"
+			],
+			[
+				"jump",
+				"jumping"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"sp",
+				"spritesheet"
+			],
+			[
+				"wal",
+				"walk_frames_r"
+			],
+			[
+				"gt",
+				"get_rect"
+			],
+			[
+				"standi",
+				"standing_frames"
+			],
+			[
+				"sat",
+				"standing_frames"
+			],
+			[
+				"jum",
+				"jumping"
+			],
+			[
+				"sta",
+				"standing_frames"
+			],
+			[
+				"walk",
+				"walk_frames_r"
+			],
+			[
+				"img",
+				"img_dir"
+			],
+			[
+				"Wid",
+				"WIDTH"
+			],
+			[
+				"hi",
+				"highscore"
+			],
+			[
+				"wait",
+				"wait_for_key"
+			],
+			[
+				"W",
+				"WIDTH"
+			],
+			[
+				"draw",
+				"draw_text"
+			],
+			[
+				"text",
+				"text_rect"
+			],
+			[
+				"plat",
+				"platforms"
+			],
+			[
+				"get_",
+				"get_rect"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"My",
+				"MyGrid"
+			],
+			[
+				"pl",
+				"player_speed_y"
+			],
+			[
+				"reques",
+				"requests"
+			],
+			[
+				"game",
+				"game_background"
+			],
+			[
+				"new",
+				"new_enemy_range"
+			],
+			[
+				"rec",
+				"record_text"
+			],
+			[
+				"op",
+				"open_json"
+			],
+			[
+				"he",
+				"heart"
+			],
+			[
+				"heal",
+				"heal_group"
+			],
+			[
+				"Bl",
+				"BLACK"
+			],
+			[
+				"ye",
+				"yes_text"
+			],
+			[
+				"Whi",
+				"WHITE"
+			],
+			[
+				"st",
+				"still_play_text"
+			],
+			[
+				"enemy",
+				"enemy"
+			],
+			[
+				"ene",
+				"enemy_group"
+			],
+			[
+				"bullet",
+				"bullet_group"
+			],
+			[
+				"player",
+				"player_group"
+			],
+			[
+				"enemy_",
+				"enemy_change_x"
+			],
+			[
+				"aR",
+				"Article"
+			],
+			[
+				"pro",
+				"products_list"
+			],
+			[
+				"products",
+				"products_list"
+			],
+			[
+				"produ",
+				"product_delete"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"in",
+				"initial_title"
+			],
+			[
+				"Pro",
+				"ProductFormModel"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"title",
+				"new_title"
+			],
+			[
+				"product",
+				"products_create"
+			],
+			[
+				"back",
+				"background_group"
+			],
+			[
+				"S",
+				"SPEED_BACKGROUND"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sprites.py",
+			"settings":
+			{
+				"buffer_size": 6358,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 7895,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 749,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cicer/Desktop/kivyproject/my.kv",
+		"/C/Users/cicer/Desktop/kivyproject/main.py",
+		"/C/Users/cicer/Desktop/Platformer/settings.py",
+		"/C/Users/cicer/Desktop/Platformer/main.py",
+		"/C/Users/cicer/Desktop/Platformer/sprites.py",
+		"/C/Users/cicer/Desktop/Quarantine/main.py",
+		"/C/Users/cicer/Desktop/Quarantine/settings.py",
+		"/C/Users/cicer/Desktop/Quarantine/sprites.py",
+		"/C/Users/cicer/Desktop/Quarantine/text.py",
+		"/C/Users/cicer/Desktop/newfile.py",
+		"/C/Users/cicer/Desktop/Monsters of War/main.py",
+		"/C/Users/cicer/Desktop/Space-Invader---Python-master/SpaceInvader.py",
+		"/C/Users/cicer/Desktop/Space Invader/SpaceInvader.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/Blog/views.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/Blog/admin.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/djangoproject/urls.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/djangoproject/settings.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/Blog/models.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/Blog/forms.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/article_list.html",
+		"/C/Users/cicer/Downloads/Capcom-Cards-Pygame-master/main.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/Blog/article_list.html",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/article_detail.html",
+		"/C/Users/cicer/Downloads/djangoproject/src/products/admin.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/products/forms.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/products/views.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/products/models.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/products/urls.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/create.html",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/product_delete.html",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/products_list.html",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/base.html",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/products.html",
+		"/C/Users/cicer/Downloads/djangoproject/src/templates/home.html",
+		"/C/Users/cicer/Desktop/Space Invader/Space Invader.py",
+		"/C/Users/cicer/PycharmProjects/Primeiro/products/models.py",
+		"/C/Users/cicer/PycharmProjects/Primeiro/products/views.py",
+		"/C/Users/cicer/Downloads/djangoproject/src/manage.py",
+		"/C/Users/cicer/Desktop/hello.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"()\n",
+			"Group",
+			"()",
+			"PLAYER_ACC",
+			"dif",
+			"=\n",
+			"\"\n",
+			"Hello",
+			" \n",
+			"fucking",
+			" \")",
+			"World",
+			"\")\n",
+			"show_life_bar",
+			"screen",
+			"pontos",
+			"velocidade_x",
+			"sair",
+			"fundo",
+			"preto",
+			"branco",
+			"altura",
+			"largura"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"points",
+			"player_speed",
+			"running",
+			"screen",
+			"BLACK",
+			"HEIGHT",
+			"WIDTH"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sprites.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4357,
+								4357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2229.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4029,
+								4029
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 9.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
